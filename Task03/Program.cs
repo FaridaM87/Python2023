@@ -4,7 +4,7 @@
 3 -> Среда
 5 -> Пятница*/
 
-System.Console.WriteLine("Введите целое число от 1 до 7: ");
+Console.WriteLine("Введите целое число от 1 до 7: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number == 1)
 {
