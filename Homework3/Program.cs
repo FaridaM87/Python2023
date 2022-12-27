@@ -55,6 +55,9 @@ Console.WriteLine($"The distance is: {length}");
      return Convert.ToInt32(Console.ReadLine());
  }
 */
+
+// Задача 23.Напишите программу, которая принимает на вход число (N) и 
+// выдаёт таблицу кубов чисел от 1 до N.
 Console.WriteLine("Input a number N:");
 int number = Convert.ToInt32(Console.ReadLine());
 
